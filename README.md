@@ -1,7 +1,7 @@
 
 # Learning C++
 
-This is a repository for my journey in learning the C++ programming language. It contains various code snippets, exercises, and small projects that I've created while learning Go. Feel free to use the code in this repository as a reference or inspiration for your own projects.
+This is a repository for my journey in learning the C++ programming language. It contains various code snippets, exercises, and small projects that I've created while learning C++. Feel free to use the code in this repository as a reference or inspiration for your own projects.
 
 ## Contributing
 
